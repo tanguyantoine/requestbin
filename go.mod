@@ -1,3 +1,3 @@
-module github.com/fiatjaf/requestbin
+module github.com/tanguyantoine/requestbin
 
 go 1.24
